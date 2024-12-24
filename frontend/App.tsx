@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Text, View, StyleSheet } from "react-native";
 
 const App: React.FC = () => {
